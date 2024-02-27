@@ -1,0 +1,101 @@
+Here are the commands
+
+luisacostafuenmayor@MacBook-Pro-de-Luis MODULO 1  - DESAFIO % node index.js read
+/Users/luisacostafuenmayor/Codigos/NODE/MODULO 1  - DESAFIO/index.js:11
+  read();
+  ^
+
+TypeError: read is not a function
+    at Object.<anonymous> (/Users/luisacostafuenmayor/Codigos/NODE/MODULO 1  - DESAFIO/index.js:11:3)
+    at Module._compile (node:internal/modules/cjs/loader:1378:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1437:10)
+    at Module.load (node:internal/modules/cjs/loader:1212:32)
+    at Module._load (node:internal/modules/cjs/loader:1028:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:142:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v21.6.2
+luisacostafuenmayor@MacBook-Pro-de-Luis MODULO 1  - DESAFIO % node index.js register Filiberto 4
+ "german pastor" grey vomits
+luisacostafuenmayor@MacBook-Pro-de-Luis MODULO 1  - DESAFIO % node index.js read
+Current dates>
+date 1:
+name: Filiberto
+age: 4
+animal: german pastor
+color: grey
+disease: vomits
+------------------------
+luisacostafuenmayor@MacBook-Pro-de-Luis MODULO 1  - DESAFIO % node index.js register Ramon 7 "Po
+meranian" black sick
+luisacostafuenmayor@MacBook-Pro-de-Luis MODULO 1  - DESAFIO % node index.js register Zeus 8 "schnauzer" grey "lack of appetite"
+luisacostafuenmayor@MacBook-Pro-de-Luis MODULO 1  - DESAFIO % node index.js read
+Current dates>
+date 1:
+name: Filiberto
+age: 4
+animal: german pastor
+color: grey
+disease: vomits
+------------------------
+date 2:
+name: Ramon
+age: 7
+animal: Pomeranian
+color: black
+disease: sick
+------------------------
+date 3:
+name: Zeus
+age: 8
+animal: schnauzer
+color: grey
+disease: lack of appetite
+------------------------
+luisacostafuenmayor@MacBook-Pro-de-Luis MODULO 1  - DESAFIO % node index.js read
+Current dates>
+date 1:
+name: Filiberto
+age: 4
+animal: german pastor
+color: grey
+disease: vomits
+------------------------
+date 2:
+name: Ramon
+age: 7
+animal: Pomeranian
+color: black
+disease: sick
+------------------------
+date 3:
+name: Zeus
+age: 8
+animal: schnauzer
+color: grey
+disease: lack of appetite
+------------------------
+luisacostafuenmayor@MacBook-Pro-de-Luis MODULO 1  - DESAFIO % node index.js read
+Current dates>
+date 1:
+name: Filiberto
+age: 4
+animal: german pastor
+color: grey
+disease: vomits
+------------------------
+date 2:
+name: Ramon
+age: 7
+animal: Pomeranian
+color: black
+disease: sick
+------------------------
+date 3:
+name: Zeus
+age: 8
+animal: schnauzer
+color: grey
+disease: lack of appetite
+------------------------
+luisacostafuenmayor@MacBook-Pro-de-Luis MODULO 1  - DESAFIO % 

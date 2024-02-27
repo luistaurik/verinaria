@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Filiberto",
+    "age": "4",
+    "animal": "german pastor",
+    "color": "grey",
+    "disease": "vomits"
+  },
+  {
+    "name": "Ramon",
+    "age": "7",
+    "animal": "Pomeranian",
+    "color": "black",
+    "disease": "sick"
+  },
+  {
+    "name": "Zeus",
+    "age": "8",
+    "animal": "schnauzer",
+    "color": "grey",
+    "disease": "lack of appetite"
+  }
+]
